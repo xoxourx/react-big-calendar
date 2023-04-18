@@ -6,9 +6,9 @@ export let navigate = {
 }
 
 export let views = {
-  MONTH: 'month',
-  WEEK: 'week',
+  MONTH: 'MONTHS',
+  WEEK: 'WEEKS',
   WORK_WEEK: 'work_week',
-  DAY: 'day',
+  DAY: 'DAYS',
   AGENDA: 'agenda',
 }
