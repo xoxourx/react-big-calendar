@@ -3,7 +3,7 @@
 An events calendar component built for React and made for modern browsers (read: not IE) and uses flexbox over the classic tables-caption approach.
 
 <p align="center">
-  <img src="./Screen_Shot_2023-06-15_at_20.12.06_clipdrop-background-removal.png" alt="Big Calendar Demo Image" />
+  <img src="./assets/Screen_Shot_2023-06-15_at_20.12.06_clipdrop-background-removal.png" alt="Big Calendar Demo Image" />
 </p>
 
 [**DEMO and Docs**](https://jquense.github.io/react-big-calendar/examples/index.html)
