@@ -18,5 +18,4 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <img src="https://github.com/0x999-x/jsluice-suite/assets/130393015/a23ea0f5-68ab-4e9b-88de-7368e015eb16">
 </p>
 
-<details><summary><h4>Monitor URLs</h4></summary><a name="#monitor-urls"></a>
-
+## 🛠️ Setup []
