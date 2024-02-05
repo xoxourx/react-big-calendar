@@ -4,7 +4,7 @@
 
 ## 📄 Table of Contents
 - [👋 Introduction](#-introduction-)
-- [🛠️ Setup](#%EF%B8%8F-setup-)
+- [🛠️ Setup](#%EF%B8%8F-setup)
 - [📝 Usage](#-usage-)
 - [📜 Features](#-features-)
   - <sub>[Monitor URLs](#monitor-urls)</sub>
