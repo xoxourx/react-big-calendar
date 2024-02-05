@@ -3,10 +3,12 @@
 </h1>
 
 ## 📄 Table of Contents
-
-- [📖 Introduction](#-introduction)
+- [👋 Introduction](#-introduction-)
 - [🛠️ Setup](#%EF%B8%8F-setup-)
-
+- [📝 Usage](#-usage-)
+- [📜 Features](#-features-)
+  - <sub>[Monitor URLs](#monitor-urls)</sub>
+  
 ## 📖 Introduction <a name="-introduction"></a>
 
 
@@ -16,4 +18,5 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 <img src="https://github.com/0x999-x/jsluice-suite/assets/130393015/a23ea0f5-68ab-4e9b-88de-7368e015eb16">
 </p>
 
-## 🛠️ Setup <a name="setup"></a>
+<details><summary><h4>Monitor URLs</h4></summary><a name="#monitor-urls"></a>
+
