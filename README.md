@@ -19,3 +19,9 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 </p>
 
 ## 🛠️ Setup
+
+## 📜 Features
+
+<details><summary><h4>Monitor URLs</h4></summary><a name="#monitor-urls"></a>
+  aaaaaaaaaaaaaa
+</details>
